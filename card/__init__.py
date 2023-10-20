@@ -1,1 +1,1 @@
-default_app_config = 'card.apps.CardConfige'
+default_app_config = 'card.apps.CardConfig'
