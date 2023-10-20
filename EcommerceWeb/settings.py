@@ -38,13 +38,13 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'captcha',  # 验证码
-    'tinymce',  # 富文本编辑
-    'users',  # 用户app
-    'goods',  # 商品app
+    'captcha',  
+    'tinymce',  
+    'users',  
+    'goods',  
     'crispy_forms',
     'xadmin',
-    'card', # 银行卡app
+    'card', 
 ]
 
 TINYMCE_DEFAULT_CONFIG = {
